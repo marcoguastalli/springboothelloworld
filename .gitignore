@@ -7,8 +7,10 @@
 *.iws
 *.lst
 out/*
+lib/*
 target/*
 build/*
+.gradle/*
 gradle/*
 gradlew
 gradlew.bat

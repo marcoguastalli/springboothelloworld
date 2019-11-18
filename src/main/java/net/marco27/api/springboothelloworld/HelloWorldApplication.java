@@ -1,12 +1,12 @@
-package net.marco27.apps.javagradlehelloworld;
+package net.marco27.api.springboothelloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaGradleHelloWorldApplication {
+public class HelloWorldApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaGradleHelloWorldApplication.class, args);
+		SpringApplication.run(HelloWorldApplication.class, args);
 	}
 }
